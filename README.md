@@ -1,5 +1,5 @@
 # Wellsaidlabs
-Auto Register and Login accound for https://wellsaidlabs.com/
+Auto Register and Login account for https://wellsaidlabs.com/
 
 <h3>What you might need and how to run the script</h3>
 <ul>
