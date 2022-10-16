@@ -24,7 +24,7 @@ tar -zxvf driver.tar.gz
 sudo cp geckodriver /usr/local/bin 
 ``` 
 ## **Running🚀** 
-- 1.REGISTER
+- 1.Register
 ```elm 
 python3 register.py 
 ```
