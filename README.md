@@ -33,4 +33,4 @@ python3 register.py
 python3 login.py
 ```
 
-<h3>Read more about <a href="https:https://www.selenium.dev/documentation/webdriver/getting_started/">Selenium</a></h3>
+<h3>Read more about <a href="https://www.selenium.dev/documentation/webdriver/getting_started/">Selenium</a></h3>
